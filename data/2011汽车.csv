@@ -1,0 +1,11 @@
+"date","geography","geography code","Rural Urban","Cars: All categories: Car or van availability; measures: Value","Cars: No cars or vans in household; measures: Value","Cars: 1 car or van in household; measures: Value","Cars: 2 cars or vans in household; measures: Value","Cars: 3 cars or vans in household; measures: Value","Cars: 4 or more cars or vans in household; measures: Value","Cars: sum of all cars or vans in the area; measures: Value"
+"2011","North East","E12000001","Total",1129935,355929,476508,238160,46036,13302,1150133
+"2011","North West","E12000002","Total",3009549,841667,1279984,707398,138371,42129,3296604
+"2011","Yorkshire and The Humber","E12000003","Total",2224059,612903,954222,521858,102611,32465,2451298
+"2011","East Midlands","E12000004","Total",1895604,418999,805212,519487,113338,38568,2356539
+"2011","West Midlands","E12000005","Total",2294909,566621,952798,591210,136201,48079,2757999
+"2011","East","E12000006","Total",2423035,449358,1039677,703968,166426,63606,3231763
+"2011","London","E12000007","Total",3266173,1357251,1324032,458659,95619,30612,2664414
+"2011","South East","E12000008","Total",3555463,660430,1483911,1059380,253552,98190,4803729
+"2011","South West","E12000009","Total",2264641,428093,985432,641473,151711,57932,2984354
+"2011","Wales","W92000004","Total",1302676,298519,559866,336069,79915,28307,1597823

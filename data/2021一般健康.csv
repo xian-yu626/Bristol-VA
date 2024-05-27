@@ -1,0 +1,28 @@
+
+"TS037 - General health"
+"ONS Crown Copyright Reserved [from Nomis on 28 April 2024]"
+"Population :","All usual residents"
+"Units      :","Persons"
+"Date       :","2021"
+
+"region","Total: All usual residents","%","Very good health","%","Good health","%","Fair health","%","Bad health","%","Very bad health","%"
+
+"East",6335072,100.0,3058673,48.3,2194562,34.6,791639,12.5,226719,3.6,63479,1.0
+"East Midlands",4880054,100.0,2256798,46.2,1699659,34.8,662825,13.6,202774,4.2,57998,1.2
+"London",8799728,100.0,4712358,53.6,2802395,31.8,908941,10.3,283864,3.2,92170,1.0
+"North East",2647014,100.0,1180035,44.6,885603,33.5,395694,14.9,143103,5.4,42579,1.6
+"North West",7417397,100.0,3540521,47.7,2425862,32.7,991124,13.4,353546,4.8,106344,1.4
+"South East",9278065,100.0,4636748,50.0,3155834,34.0,1092213,11.8,307131,3.3,86139,0.9
+"South West",5701187,100.0,2713601,47.6,1950303,34.2,748197,13.1,224985,3.9,64101,1.1
+"Wales",3107495,100.0,1436479,46.2,1005485,32.4,449655,14.5,164102,5.3,51774,1.7
+"West Midlands",5950757,100.0,2760968,46.4,2045948,34.4,805905,13.5,259955,4.4,77981,1.3
+"Yorkshire and The Humber",5480773,100.0,2531127,46.2,1880570,34.3,750808,13.7,246178,4.5,72090,1.3
+
+
+
+"","In order to protect against disclosure of personal information, records"
+"","have been swapped between different geographic areas and counts perturbed"
+"","by small amounts. Small counts at the lowest geographies will be most"
+"","affected."
+"",""
+
